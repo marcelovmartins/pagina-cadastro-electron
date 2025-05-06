@@ -1,0 +1,22 @@
+{
+  "name": "pagina-cadastro-electron",
+  "version": "1.0.0",
+  "description": "Página Castro Electron - Atividade",
+  "main": "index.js",
+
+  "scripts": {
+        "start": "electron ."
+    }
+    
+
+//  "scripts": {
+//    "test": "echo \"Error: no test specified\" && exit 1"
+//  },
+
+"keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^36.1.0"
+  }
+}
