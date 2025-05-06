@@ -2,7 +2,7 @@
   "name": "pagina-cadastro-electron",
   "version": "1.0.0",
   "description": "Página Castro Electron - Atividade",
-  "main": "index.js",
+  "main": "index.html",
 
   "scripts": {
     "start": "electron ."
